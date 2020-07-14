@@ -17,7 +17,7 @@ Buildozer is a tool that aim to package mobiles application easily. It automates
 prerequisite :- You must have to use Mac os or linux    
   
 First of all download buildozer    
-`git clone https://github.com/kivy/buildozer.git`
+```git clone https://github.com/kivy/buildozer.git```
   
 Install Python    
 `sudo apt install python3.6`    
