@@ -3,7 +3,9 @@
 In ubuntu Kivy is built from the packages `python-kivy`, `python-kivy-examples`.  
 So install these packages by run   
     
-`sudo apt-get install python-kivy python-kivy-examples debhelper python python-all-dev cython libgl1-mesa-dev libgles2-mesa-dev`    
+```
+sudo apt-get install python-kivy python-kivy-examples debhelper python python-all-dev cython libgl1-mesa-dev libgles2-mesa-dev
+```    
    
     
 
