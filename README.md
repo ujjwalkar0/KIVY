@@ -27,22 +27,34 @@ sudo apt install python3.6
 ```    
     
 Install Setup tools    
-`sudo apt-get install python3-setuptools`    
+```
+sudo apt-get install python3-setuptools
+```    
     
 Go to buildozer directory   
-`cd buildozer`    
+```
+cd buildozer
+```    
     
 Install `setup.py` by this command    
-`sudo python3 setup.py install`    
+```
+sudo python3 setup.py install
+```    
  
  
 Install some packages
 
-`sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev `  
+```
+sudo apt install -y git zip unzip openjdk-8-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
+```  
   
-`pip3 install --user --upgrade Cython==0.29.19 virtualenv`  
+```
+pip3 install --user --upgrade Cython==0.29.19 virtualenv
+```  
   
-`export PATH=$PATH:~/.local/bin/`
+```
+export PATH=$PATH:~/.local/bin/
+```
 
 Install Cython
 
