@@ -66,7 +66,9 @@ Move to the directory where your kivy project present
 
 Initialize Buildozer
 
-`buildozer init`
+```
+buildozer init
+```
 
 Write `nano buildozer.spec`
 
@@ -99,7 +101,7 @@ android.logcat_filters = *:S python:D
 ```
 
 run the last command     
-`
+```
 buildozer android debug deploy run    
 
-`
+```
